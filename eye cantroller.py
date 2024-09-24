@@ -1,4 +1,4 @@
-# Eye Controlled Mouse for Linux - Ashutosh Mishra
+# Eye Controlled Mouse for Linux/windows - Ashutosh Mishra
 
 import cv2
 import mediapipe as mp
